@@ -4,7 +4,8 @@ const bossName = "Makkusu_Otaku"; //Your name here.... unless?
 const prefix = "Bodyguard";
 
 const server = {
-	address: "localhost",
+	address: "dhruserverabcd.aternos.me",
+	ip:"51815"
 	version: "1.16.4",
 };
 
